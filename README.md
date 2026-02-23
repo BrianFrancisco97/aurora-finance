@@ -69,11 +69,11 @@ Context-driven state management with modular UI structure
 ## 📸 System Preview
 
 <p align="center">
-  <img src="./Aurora Finance/Aurora Dashboard.jpeg" width="900"/>
+  <img src="./aurora-finance/dashboard.jpeg" width="900"/>
   <br/><br/>
-  <img src="./Aurora Finance/Aurora Lançamentos.jpeg" width="900"/>
+  <img src="./aurora-finance/lancamentos.jpeg" width="900"/>
   <br/><br/>
-  <img src="./Aurora Finance/Aurora Relatórios.jpeg" width="900"/>
+  <img src="./aurora-finance/relatorios.jpeg" width="900"/>
 </p>
 
 ---
@@ -107,3 +107,7 @@ Full Stack Engineer • SaaS Builder
 ---
 
 Built for clarity. Designed with business logic in mind.
+
+---
+
+Se ainda não aparecer depois disso, me manda print da estrutura do repo que eu identifico exatamente onde está quebrando.
